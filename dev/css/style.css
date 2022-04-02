@@ -81,3 +81,8 @@ body{
 .cancel:active{
     text-decoration: none;
 }
+@media screen and (min-width: 460px) {
+    .container{
+        max-width: 390px;
+    }
+}
